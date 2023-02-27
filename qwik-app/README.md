@@ -1,3 +1,7 @@
+# app for testing out qwik in a workshop on 24.2.2023
+
+## see katas done for learning in this repository https://github.com/survivejs/qwik-katas/blob/main/katas/kata-03.md
+
 # Qwik City App ⚡️
 
 - [Qwik Docs](https://qwik.builder.io/)
